@@ -1,0 +1,33 @@
+# プラグイン（Gitリポジトリ）
+pack/
+
+# Vimの一時ファイル
+*.swp
+*.swo
+*.swn
+*~
+
+# バックアップファイル
+*.bak
+*.backup
+
+# アンドゥファイル
+*.un~
+
+# セッションファイル
+Session.vim
+
+# ビューファイル
+.netrwhist
+
+# タグファイル
+tags
+tags.lock
+tags.temp
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+
+# ログファイル
+*.log
